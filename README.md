@@ -43,8 +43,6 @@ npm create vite@latest cometchat-react-ts-app --template react-ts
 cd cometchat-react-ts-app
 
 ```
-Clean up the boilerplate:
-
 ## Step 2: Install Dependencies
 
 To integrate CometChat into your project, install the required SDK and UI Kit using:
